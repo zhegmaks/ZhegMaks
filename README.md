@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhegMaks
+- 👋 Hi, I’m @zhegmaks
 
 <!---
 ZhegMaks/ZhegMaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
